@@ -11,8 +11,8 @@
 </p>
 
 
-- Todas as interfaces e classes são encontradas dentro do pacote (package) java.util.
-- Embora a interface Map não seja filha direta da interface Collection, ela também é considerada uma coleção devido à sua função.
+- Todas as interfaces e classes são encontradas dentro do pacote (package) `java.util`.
+- Embora a interface Map não seja filha direta da interface `Collection`, ela também é considerada uma coleção devido à sua função.
 
 <p align="center">
 <img src="./assets/image/collection-framework-methods.png" alt="List interface hierarchy Java"><br>
